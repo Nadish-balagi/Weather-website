@@ -33,14 +33,3 @@ Welcome to the Weather App! This application allows users to check the current w
 - JavaScript
 - OpenWeatherMap API
 
-## Preview
-
-![Weather App Preview](weather_app_preview.png)
-
-## Contributing
-
-Contributions are welcome! If you have any ideas for improvements or new features, feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
